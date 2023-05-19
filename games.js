@@ -17,7 +17,7 @@ function nextSequence(){
 }
 
 function playSound(name){
-    var audio = new Audio("https://gitgvikas.gitub.io/Simon-Game_Vikas/"+ name + ".mp3");
+    var audio = new Audio("https://github.com/gitgvikas/Simon-Game_Vikas/raw/main/"+ name + ".mp3?raw=true");
     audio.play();
 }
 
